@@ -1,0 +1,6 @@
+framework module Pods_GSReuseTools_Tests {
+  umbrella header "Pods-GSReuseTools_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

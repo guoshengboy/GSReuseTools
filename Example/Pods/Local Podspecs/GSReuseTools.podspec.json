@@ -1,0 +1,22 @@
+{
+  "name": "GSReuseTools",
+  "version": "0.1.0",
+  "summary": "A short description of GSReuseTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/caoguosheng/GSReuseTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caoguosheng": "caoguosheng.smg.cn"
+  },
+  "source": {
+    "git": "https://github.com/caoguosheng/GSReuseTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GSReuseTools/Classes/**/*"
+}

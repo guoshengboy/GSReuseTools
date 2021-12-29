@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'GSReuseTools_Example' do
+  pod 'GSReuseTools', :path => '../'
+
+  target 'GSReuseTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

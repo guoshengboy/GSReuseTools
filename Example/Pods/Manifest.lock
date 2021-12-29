@@ -1,0 +1,16 @@
+PODS:
+  - GSReuseTools (0.1.0)
+
+DEPENDENCIES:
+  - GSReuseTools (from `../`)
+
+EXTERNAL SOURCES:
+  GSReuseTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GSReuseTools: e478c6f9733eff628ef1131cb9b8c9a3910c6b79
+
+PODFILE CHECKSUM: b97b6827103c96be75df73ad0f7f4f1b8c4204ef
+
+COCOAPODS: 1.10.2
